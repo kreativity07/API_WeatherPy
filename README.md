@@ -9,7 +9,7 @@ Cloudiness (%) vs. Latitude
 Wind Speed (mph) vs. Latitude
 
 
-# Your final notebook must:
+Your final notebook must:
 
 
 Randomly select at least 500 unique (non-repeat) cities based on latitude and longitude.
@@ -18,7 +18,7 @@ Include a print log of each city as it's being processed with the city number an
 Save both a CSV of all data retrieved and png images for each scatter plot.
 
 
-# As final considerations:
+As final considerations:
 
 
 You must complete your analysis using a Jupyter notebook.
